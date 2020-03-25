@@ -1,0 +1,7 @@
+#!/bin/bash
+# mkfs is the command for formating
+#/dev/sdb is the usb drive
+sudo mkfs.vfat -I /dev/sdb
+echo "formating......"
+sleep 5
+echo "DONE"

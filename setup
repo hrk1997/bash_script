@@ -1,0 +1,10 @@
+#!/bin/bash
+#copy this to bin
+sudo cp formatusb /bin/
+echo "installing....."
+ls /bin | grep formatusb
+sleep 5
+echo "script installed"
+echo "COMMAND IS:"
+echo "formatusb"
+echo "## DONE ##"
