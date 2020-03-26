@@ -1,0 +1,9 @@
+#!/bin/bash
+#activate hrk tools
+sudo apt-get install -y youtube-dl
+sudo cp youtube /bin
+ls /bin | grep youtube
+echo "  INSTALLING YOUTUBE DOWNLOADER ......"
+echo ">>>>>>>>>>>>>>>>>>>>>>>>>"
+echo "DONE"
+echo "JUST TYPE youtube IN THE TERMINAL"

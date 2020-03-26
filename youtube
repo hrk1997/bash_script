@@ -1,0 +1,10 @@
+#!/bin/bash
+#mp3 downloader form youtube
+echo "copy the youtube link ::"
+read link
+youtube-dl -F $link
+echo "SELECT THE FORMAT CODE ACCORDING TO THE RESOLUTION !!"
+echo "enter the format code ::"
+read code
+youtube-dl -f $code $link
+echo "DONE"
