@@ -1,6 +1,7 @@
                                                SIMPLE BASH SCRIPT 
 
-project 1 ::                    
+project 1 ::  
+                  
                                       FORMAT USB
 
     setup  : THIS SCRIPT IS USE TO INSTALL THE SCRIPT TO YOUR COMMADS.
