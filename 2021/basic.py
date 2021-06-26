@@ -1,0 +1,7 @@
+#!/bin/python3
+import webbrowser
+webbrowser.open('https://www.google.com/search?q=btc+to+inr+&safe=active&sxsrf=ALeKk01ESY80WIJNK8tV0H8_SOQ1e61aTg%3A1624376658910&ei=UgXSYOz2No_iz7sP2_2s2A8&oq=btc+to+inr+&gs_lcp=Cgdnd3Mtd2l6EAMyCQgjECcQRhCCAjIHCAAQhwIQFDICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAOgcIABBHELADOgcIABCwAxBDOgYIABAWEB5QvxJYnyZg0CxoBHACeACAAaoCiAHJDpIBBTAuOC4ymAEAoAEBqgEHZ3dzLXdpesgBCsABAQ&sclient=gws-wiz&ved=0ahUKEwjs5_DNyqvxAhUP8XMBHds-C_sQ4dUDCA4&uact=5')
+webbrowser.open('https://www.google.com/search?q=eth+to+inr&oq=eth+&aqs=chrome.1.69i57j0i67i131i433j69i59l2j0i67i131i433j69i60l3.4004j0j7&sourceid=chrome&ie=UTF-8')
+webbrowser.open('https://www.google.com/search?q=aed+to+inr&oq=aed&aqs=chrome.1.69i57j0i20i263i433j0i67i131i433j0i67l3j0i67i457j0i433j0i67i131i433j0i433.4028j1j7&sourceid=chrome&ie=UTF-8')
+webbrowser.open('https://www.google.com/search?q=usd+to+inr&oq=usd&aqs=chrome.1.69i57j35i39j0i67i433l2j0i67j0i20i263i433j0i433j0i67l2j0.4376j0j7&sourceid=chrome&ie=UTF-8')
+webbrowser.open('https://www.google.com/search?q=euro+to+inr&safe=active&sxsrf=ALeKk02elRX98cPYCOSFeoubdG86jNzuTQ%3A1624376366252&ei=LgTSYISED7WymgfvyIiQDw&oq=euro&gs_lcp=Cgdnd3Mtd2l6EAMYADIECCMQJzIECAAQQzIECAAQQzIECAAQQzIGCAAQChBDMgQIABBDMggILhCxAxCDATIICAAQsQMQgwEyBggAEAoQQzIECAAQQzoHCAAQRxCwAzoHCAAQsAMQQzoGCAAQBxAeOg4ILhCxAxCDARDHARCvAToCCAA6BwgjELECECc6CgguELEDEIMBEAo6CggAELEDEIMBEApQryRYwyxg7ztoAXACeAGAAcYDiAGOD5IBCTAuMi40LjEuMZgBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=gws-wiz')

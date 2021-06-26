@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#record the last update time in hrk_log.txt
+date >> /home/hrk/Desktop/hrk_log.txt
+
+#update command
+sudo apt-get update 
